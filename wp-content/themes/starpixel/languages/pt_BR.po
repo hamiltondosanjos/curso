@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Starpixe 1.0\n"
+"POT-Creation-Date: 2018-06-05 23:16-0300\n"
+"PO-Revision-Date: 2018-06-05 23:39-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;_x;_nx;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+#: 404.php:14
+msgid "Unfortunately, the page you tried to reach does not exist on this site!"
+msgstr "Infelizmente, a página que você tentou acessar não existe neste site!"
+
+#: 404.php:17
+msgid "How about doing a sarch?"
+msgstr "Que tal fazer um xeque?"
+
+#: 404.php:21
+msgid "Lasted Posts"
+msgstr "Ultimas postagens"
+
+#: archive.php:42 index.php:38 page-contact.php:36 sidebar-blog.php:7
+#: sidebar.php:7
+msgid "Theres nothing yet to be displayed..."
+msgstr "Ainda não há nada para ser exibido ..."
+
+#: category.php:42
+msgid "There nothing yet to be displayed..."
+msgstr "Ainda não há nada para ser exibido ..."
+
+#: comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Um pensamento sobre & ldquo; %s & rdquo;"
+
+#: comments.php:36
+#, php-format
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr "%1$s thought on &ldquo;%2$s&rdquo;"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Não é permitido comentar."
+
+#: functions.php:25
+msgid "Main Menu"
+msgstr "Menu Principal"
+
+#: functions.php:26
+msgid "Top Bar Menu"
+msgstr "Menu Top Bar"
+
+#: functions.php:27
+msgid "Footer Menu"
+msgstr "Rodapé"
+
+#: functions.php:62
+msgid "Home Page Sidebar"
+msgstr "Barra Lateral da página inicial"
+
+#: functions.php:64
+msgid "Sidebar to be used Home Page"
+msgstr "Barra lateral a ser usada Home Page"
+
+#: functions.php:73
+msgid "Blog Sidebar"
+msgstr "Barra lateral do blog"
+
+#: functions.php:75
+msgid "Sidebar to be used Blog"
+msgstr "Barra lateral a ser usada Blog"
+
+#: functions.php:84
+msgid "Services 1"
+msgstr " SERVIÇOS 1"
+
+#: functions.php:86
+msgid "First Service area"
+msgstr "Primeira área de serviço"
+
+#: functions.php:95
+msgid "Services 2"
+msgstr " SERVIÇOS 2"
+
+#: functions.php:97
+msgid "Second Service area"
+msgstr "Segunda área de serviço"
+
+#: functions.php:106
+msgid "Services 3"
+msgstr " SERVIÇOS 3"
+
+#: functions.php:108
+msgid "Third Service area"
+msgstr "Terceira área de serviço"
+
+#: functions.php:117
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: functions.php:119
+msgid "Place your meida social here"
+msgstr "Coloque seu meida social aqui"
+
+#: general-template.php:24 page-contact.php:22
+#: template-parts/content-archive.php:15 template-parts/content-category.php:17
+#: template-parts/content-image.php:11 template-parts/content-search.php:10
+#: template-parts/content-single.php:8 template-parts/content.php:15
+msgid "Published in "
+msgstr "Publicado em "
+
+#: general-template.php:24 page-contact.php:22
+#: template-parts/content-archive.php:15 template-parts/content-category.php:17
+#: template-parts/content-featured.php:15 template-parts/content-image.php:11
+#: template-parts/content-search.php:10 template-parts/content-single.php:8
+#: template-parts/content.php:15
+msgid "by "
+msgstr "por"
+
+#: general-template.php:26 page-contact.php:24
+#: template-parts/content-archive.php:17 template-parts/content-category.php:15
+#: template-parts/content-featured.php:16 template-parts/content-image.php:13
+#: template-parts/content-search.php:12 template-parts/content-secundary.php:16
+#: template-parts/content-single.php:10 template-parts/content.php:17
+msgid "Categories: "
+msgstr "Categorias: "
+
+#: general-template.php:28 page-contact.php:26
+#: template-parts/content-archive.php:19 template-parts/content-category.php:19
+#: template-parts/content-featured.php:17 template-parts/content-image.php:15
+#: template-parts/content-search.php:12 template-parts/content-secundary.php:17
+#: template-parts/content-single.php:12 template-parts/content.php:19
+msgid "Tags: "
+msgstr "Tags: "
+
+#: inc/costumizer.php:9 inc/costumizer.php:24
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/costumizer.php:10
+msgid "Copyright Section"
+msgstr "Seção de direitos de autor"
+
+#: inc/costumizer.php:17
+msgid "Copyright X - All rights reserved"
+msgstr "Copyright X - Todos os direitos reservados"
+
+#: inc/costumizer.php:25
+msgid "Choose whether to show the Services section or not"
+msgstr "Escolha se deseja mostrar a seção Serviços ou não"
+
+#: inc/costumizer.php:35
+msgid "Map"
+msgstr "Mapa"
+
+#: inc/costumizer.php:36
+msgid "Map Section"
+msgstr "Seção do Mapa"
+
+#: inc/costumizer.php:52
+msgid "API Key"
+msgstr "API Key"
+
+#: inc/costumizer.php:54
+#, php-format
+msgid "Get your key <a target=\"_blank\" href=\"%s\">here</a>"
+msgstr "Obtenha sua chave <a target=\"_blank\" href=\" %s \"> aqui </a>"
+
+#: inc/costumizer.php:74
+msgid "Type your address here"
+msgstr "Digite seu endereço aqui"
+
+#: inc/costumizer.php:75
+msgid "No special characters allowed"
+msgstr "caracteres especiais não são permitidos"
+
+#: inc/costumizer.php:85
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/costumizer.php:86
+msgid "Slider Section"
+msgstr "Slider Section"
+
+#: inc/costumizer.php:102
+msgid "Choose your design type here"
+msgstr "Escolha o seu tipo de desenho aqui"
+
+#: inc/costumizer.php:103
+msgid "Choose your design type"
+msgstr "Escolha o seu tipo de design"
+
+#: inc/costumizer.php:107
+msgid "Design Type 1"
+msgstr "Tipo de Desenho 1"
+
+#: inc/costumizer.php:108
+msgid "Design Type 2"
+msgstr "Tipo de Desenho 2"
+
+#: inc/costumizer.php:109
+msgid "Design Type 3"
+msgstr "Tipo de Desenho 3"
+
+#: inc/costumizer.php:110
+msgid "Design Type 4"
+msgstr "Tipo de Desenho 4"
+
+#: inc/costumizer.php:127
+msgid "Number of posts to display"
+msgstr "Número de posts para exibir"
+
+#: inc/costumizer.php:128
+msgid "Choose the number of posts to be displayed"
+msgstr "Escolha o número de postagens a serem exibidas"
+
+#: page-home.php:17
+msgid "Our Services"
+msgstr "Nossos serviços"
+
+#: page-home.php:51
+msgid "Lasted News"
+msgstr "Notícias duradouras"
+
+#: search.php:5
+msgid "Serach results for: "
+msgstr "Resultados  para pesquisa: "
+
+#: searchform.php:13
+msgid "Search &hellip;"
+msgstr "Pesquisa"
+
+#: searchform.php:15
+msgid "Search"
+msgstr "Busca"

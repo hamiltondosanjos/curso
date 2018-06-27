@@ -1,0 +1,1537 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"textdomain"
+			],
+			[
+				"wp_",
+				"wp_starpixel_costumizer"
+			],
+			[
+				"wp",
+				"wp_starpixel_config"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"wp_enqueue",
+				"wp_enqueue_scripts"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"table",
+				"table\ttable - Placeholder"
+			],
+			[
+				"img",
+				"img\tImage - Placeholder"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-content/themes/starpixel/inc/required-plugins.php",
+			"settings":
+			{
+				"buffer_size": 8036,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/starpixel/functions.php",
+			"settings":
+			{
+				"buffer_size": 6805,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/starpixel/index.php",
+			"settings":
+			{
+				"buffer_size": 1556,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/starpixel/css/template.css",
+			"settings":
+			{
+				"buffer_size": 5910,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/starpixel/js/ajaxLoad.js",
+			"settings":
+			{
+				"buffer_size": 1735,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"keyma",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"placeho",
+				"Snippet: form - Placeholder"
+			],
+			[
+				"snippet",
+				"Snippet: <li>"
+			],
+			[
+				"snippet: list",
+				"Snippet: <datalist>"
+			],
+			[
+				"tab",
+				"Snippet: <table>"
+			],
+			[
+				"html5",
+				"Snippet: IE Conditional Comment: HTML5 Shim"
+			],
+			[
+				"butto",
+				"Snippet: <button>"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"loren",
+				"Plugin Development: Profile Events"
+			],
+			[
+				"snippet:",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 474.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/curso"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/inc/costumizer.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/page-home.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/searchform.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/sidebar-blog.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/sidebar.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/single.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/search.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/footer.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/page-contact.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/404.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/archive.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/category.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/comments.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/template-parts/content-archive.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/index.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/template-parts/content.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/template-parts/content-secundary.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/css/style.css",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/css/template.css",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/page-contato.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/header.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/plugins/social-media-icons-widget/social-media-icons-widget.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/functions.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/general-template.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/template-parts/content-search.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/template-parts/content-single.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/template-parts/content-category.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/template-parts/content.archive.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/template-parts/content-video.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/twentysixteen/searchform.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/template-parts/content-featured.php",
+		"/Applications/MAMP/htdocs/curso/wp-config.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/twentysixteen/template-parts/content-search.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/template-parts/content-image.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/content-secundary.php",
+		"/Applications/MAMP/htdocs/curso/wp-includes/class-wp-query.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/style.css",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/starpixel/page-sobre.php",
+		"/Applications/MAMP/htdocs/curso/wp-content/themes/twentysixteen/style.css",
+		"/Users/hamiltondesenvolvedor/Downloads/screenshoot.png",
+		"/Applications/MAMP/htdocs/curso/.htaccess",
+		"/Applications/MAMP/htdocs/curso/xmlrpc.php",
+		"/Applications/MAMP/htdocs/curso/wp-trackback.php",
+		"/Applications/MAMP/htdocs/curso/wp-signup.php",
+		"/Applications/MAMP/htdocs/curso/wp-settings.php",
+		"/Applications/MAMP/htdocs/curso/wp-mail.php",
+		"/Applications/MAMP/htdocs/curso/wp-login.php",
+		"/Applications/MAMP/htdocs/curso/wp-load.php",
+		"/Applications/MAMP/htdocs/curso/wp-links-opml.php",
+		"/Applications/MAMP/htdocs/curso/wp-cron.php",
+		"/Applications/MAMP/htdocs/curso/wp-config-sample.php",
+		"/Applications/MAMP/htdocs/curso/cursoBootstrap4.sublime-project",
+		"/Applications/MAMP/htdocs/curso/cursoBootstrap4.sublime-workspace",
+		"/Applications/MAMP/htdocs/curso/index.php",
+		"/Applications/MAMP/htdocs/curso/license.txt",
+		"/Applications/MAMP/htdocs/curso/readme.html",
+		"/Applications/MAMP/htdocs/curso/untitled.sublime-workspace",
+		"/Applications/MAMP/htdocs/curso/wp-activate.php",
+		"/Applications/MAMP/htdocs/curso/wp-blog-header.php",
+		"/Applications/MAMP/htdocs/curso/wp-comments-post.php",
+		"/Users/hamiltondesenvolvedor/.bitnami/stackman/machines/xampp/volumes/root/etc/extra/httpd-xampp.conf",
+		"/Users/hamiltondesenvolvedor/Downloads/php.ini",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/.htaccess",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/functions 2.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/form-checkout.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/wp-config.php",
+		"/Users/hamiltondesenvolvedor/Downloads/htaccess.txt",
+		"/Users/hamiltondesenvolvedor/Downloads/info.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/exchange-rate-table.php",
+		"/Users/hamiltondesenvolvedor/Downloads/widget_cotacoes.php",
+		"/Users/hamiltondesenvolvedor/Downloads/Vaso Sanitário com Caixa Acoplada 3:6L Eco Plus Br",
+		"/Users/hamiltondesenvolvedor/Documents/Works/agenciaMarcosPontes/rodapeParceiros.html",
+		"/Users/hamiltondesenvolvedor/Documents/Works/agenciaMarcosPontes/logoMarcosPontesLight.svg",
+		"/Users/hamiltondesenvolvedor/.bitnami/stackman/machines/xampp/volumes/root/htdocs/habbibs/index.html",
+		"/Users/hamiltondesenvolvedor/.bitnami/stackman/machines/xampp/volumes/root/htdocs/habbibs/css/sticky-footer-navbar.css",
+		"/Users/hamiltondesenvolvedor/.bitnami/stackman/machines/xampp/volumes/root/htdocs/habbibs/css/style.css",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/header-1.php",
+		"/Volumes/HD MAC/laurarizzotto/beta/formatacaoJupiter.txt",
+		"/Volumes/HD MAC/laurarizzotto/home.html",
+		"/Volumes/HD MAC/laurarizzotto/important.css",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/index.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/header.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/wp-tmp.php",
+		"/Volumes/HD MAC/laurarizzotto/wp-config.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/includes/class-wp-filesystem-base.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/.user.ini",
+		"/Volumes/HD MAC/laurarizzotto/wp-content/plugins/2oneplagine/2oneplagine.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/fdnsuwoxc23.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/.htaccess 3",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/.htaccess 2",
+		"/Users/hamiltondesenvolvedor/Downloads/filezilla_u45411901-hamilton.xml",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/jupiter/components/shortcodes/mk_blog/css/blog-spotlight.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/jupiter/components/shortcodes/mk_blog/loop-styles/spotlight.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/jupiter-child/style.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-load.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/sftp-config.json",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-config.php",
+		"/Users/hamiltondesenvolvedor/Library/Application Support/Sublime Text 3/Packages/User/loren ipsum",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentysixteen/searchform.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentysixteen/style.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentysixteen/template-parts/content-search.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/teste.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentysixteen/rtl.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentysixteen/readme.txt",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentysixteen/functions.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyseventeen/assets/css/ie8.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyseventeen/assets/css/editor-style.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyseventeen/style.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyseventeen/README.txt",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyseventeen/functions.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/genericons/README.md",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/genericons/Genericons.svg",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/genericons/genericons.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/genericons/COPYING.txt",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/css/ie7.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/css/ie.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/css/editor-style.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/style.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/rtl.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/readme.txt",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/functions.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/plugins/akismet/_inc/akismet.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/plugins/akismet/readme.txt",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/plugins/akismet/class.akismet.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/plugins/akismet/class.akismet-widget.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/plugins/hello.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/languages/themes/twentysixteen-pt_BR.po",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/languages/themes/twentysixteen-pt_BR.mo"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wpcurso",
+			"secundary"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-content/themes/starpixel/inc/required-plugins.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2793,
+								2793
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2479,
+										2480
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2454,
+										2455
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2795,
+										2796
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2336,
+										2337
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1056.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wp-content/themes/starpixel/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4844,
+								4844
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2953.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wp-content/themes/starpixel/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								349
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										354,
+										355
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										353,
+										354
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										348,
+										349
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										336,
+										337
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wp-content/themes/starpixel/css/template.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5910,
+								5910
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1145.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "wp-content/themes/starpixel/js/ajaxLoad.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								663,
+								663
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										341,
+										342
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										295,
+										296
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1335,
+										1336
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										662,
+										663
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 298.0
+	},
+	"pinned_build_system": "",
+	"project": "cursoBootstrap4.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wp-",
+				"wp-cron.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Downloads/wordpress/wordpress.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

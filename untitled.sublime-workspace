@@ -1,0 +1,412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"table",
+				"table\ttable - Placeholder"
+			],
+			[
+				"img",
+				"img\tImage - Placeholder"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"keyma",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"placeho",
+				"Snippet: form - Placeholder"
+			],
+			[
+				"snippet",
+				"Snippet: <li>"
+			],
+			[
+				"snippet: list",
+				"Snippet: <datalist>"
+			],
+			[
+				"tab",
+				"Snippet: <table>"
+			],
+			[
+				"html5",
+				"Snippet: IE Conditional Comment: HTML5 Shim"
+			],
+			[
+				"butto",
+				"Snippet: <button>"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"loren",
+				"Plugin Development: Profile Events"
+			],
+			[
+				"snippet:",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 474.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/curso"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/curso/.htaccess",
+		"/Applications/MAMP/htdocs/curso/xmlrpc.php",
+		"/Applications/MAMP/htdocs/curso/wp-trackback.php",
+		"/Applications/MAMP/htdocs/curso/wp-signup.php",
+		"/Applications/MAMP/htdocs/curso/wp-settings.php",
+		"/Applications/MAMP/htdocs/curso/wp-mail.php",
+		"/Applications/MAMP/htdocs/curso/wp-login.php",
+		"/Applications/MAMP/htdocs/curso/wp-load.php",
+		"/Applications/MAMP/htdocs/curso/wp-links-opml.php",
+		"/Applications/MAMP/htdocs/curso/wp-cron.php",
+		"/Applications/MAMP/htdocs/curso/wp-config.php",
+		"/Applications/MAMP/htdocs/curso/wp-config-sample.php",
+		"/Applications/MAMP/htdocs/curso/cursoBootstrap4.sublime-project",
+		"/Applications/MAMP/htdocs/curso/cursoBootstrap4.sublime-workspace",
+		"/Applications/MAMP/htdocs/curso/index.php",
+		"/Applications/MAMP/htdocs/curso/license.txt",
+		"/Applications/MAMP/htdocs/curso/readme.html",
+		"/Applications/MAMP/htdocs/curso/untitled.sublime-workspace",
+		"/Applications/MAMP/htdocs/curso/wp-activate.php",
+		"/Applications/MAMP/htdocs/curso/wp-blog-header.php",
+		"/Applications/MAMP/htdocs/curso/wp-comments-post.php",
+		"/Users/hamiltondesenvolvedor/.bitnami/stackman/machines/xampp/volumes/root/etc/extra/httpd-xampp.conf",
+		"/Users/hamiltondesenvolvedor/Downloads/php.ini",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/.htaccess",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/functions 2.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/form-checkout.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/wp-config.php",
+		"/Users/hamiltondesenvolvedor/Downloads/htaccess.txt",
+		"/Users/hamiltondesenvolvedor/Downloads/info.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/exchange-rate-table.php",
+		"/Users/hamiltondesenvolvedor/Downloads/widget_cotacoes.php",
+		"/Users/hamiltondesenvolvedor/Downloads/Vaso Sanitário com Caixa Acoplada 3:6L Eco Plus Br",
+		"/Users/hamiltondesenvolvedor/Documents/Works/agenciaMarcosPontes/rodapeParceiros.html",
+		"/Users/hamiltondesenvolvedor/Documents/Works/agenciaMarcosPontes/logoMarcosPontesLight.svg",
+		"/Users/hamiltondesenvolvedor/.bitnami/stackman/machines/xampp/volumes/root/htdocs/habbibs/index.html",
+		"/Users/hamiltondesenvolvedor/.bitnami/stackman/machines/xampp/volumes/root/htdocs/habbibs/css/sticky-footer-navbar.css",
+		"/Users/hamiltondesenvolvedor/.bitnami/stackman/machines/xampp/volumes/root/htdocs/habbibs/css/style.css",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/header-1.php",
+		"/Volumes/HD MAC/laurarizzotto/beta/formatacaoJupiter.txt",
+		"/Volumes/HD MAC/laurarizzotto/home.html",
+		"/Volumes/HD MAC/laurarizzotto/important.css",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/index.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/header.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/wp-tmp.php",
+		"/Volumes/HD MAC/laurarizzotto/wp-config.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/includes/class-wp-filesystem-base.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/.user.ini",
+		"/Volumes/HD MAC/laurarizzotto/wp-content/plugins/2oneplagine/2oneplagine.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/fdnsuwoxc23.php",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/.htaccess 3",
+		"/private/var/folders/dp/pw7nc5rn4lj3rfzmtd65fbw80000gn/T/fz3temp-2/.htaccess 2",
+		"/Users/hamiltondesenvolvedor/Downloads/filezilla_u45411901-hamilton.xml",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/jupiter/components/shortcodes/mk_blog/css/blog-spotlight.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/jupiter/components/shortcodes/mk_blog/loop-styles/spotlight.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/jupiter-child/style.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-load.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/sftp-config.json",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-config.php",
+		"/Users/hamiltondesenvolvedor/Library/Application Support/Sublime Text 3/Packages/User/loren ipsum",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentysixteen/searchform.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentysixteen/style.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentysixteen/template-parts/content-search.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/teste.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentysixteen/rtl.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentysixteen/readme.txt",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentysixteen/functions.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyseventeen/assets/css/ie8.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyseventeen/assets/css/editor-style.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyseventeen/style.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyseventeen/README.txt",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyseventeen/functions.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/genericons/README.md",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/genericons/Genericons.svg",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/genericons/genericons.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/genericons/COPYING.txt",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/css/ie7.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/css/ie.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/css/editor-style.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/style.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/rtl.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/readme.txt",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/themes/twentyfifteen/functions.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/plugins/akismet/_inc/akismet.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/plugins/akismet/readme.txt",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/plugins/akismet/class.akismet.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/plugins/akismet/class.akismet-widget.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/plugins/hello.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/languages/themes/twentysixteen-pt_BR.po",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/languages/themes/twentysixteen-pt_BR.mo",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/languages/themes/twentyseventeen-pt_BR.po",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/languages/themes/twentyseventeen-pt_BR.mo",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/languages/themes/twentyfifteen-pt_BR.po",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/languages/themes/twentyfifteen-pt_BR.mo",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/languages/pt_BR.po",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/languages/pt_BR.mo",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/languages/admin-pt_BR.po",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-content/languages/admin-pt_BR.mo",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/js/dashboard.min.js",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/js/dashboard.js",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/includes/update-core.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/includes/plugin.php",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/widgets.min.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/widgets.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/widgets-rtl.min.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/widgets-rtl.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/themes.min.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/themes.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/themes-rtl.min.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/themes-rtl.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/revisions.min.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/revisions.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/revisions-rtl.min.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/revisions-rtl.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/nav-menus.min.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/nav-menus.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/nav-menus-rtl.min.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/nav-menus-rtl.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/media.min.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/media.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/media-rtl.min.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/media-rtl.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/login.min.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/login.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/login-rtl.min.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/login-rtl.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/list-tables.min.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/list-tables.css",
+		"/Users/hamiltondesenvolvedor/Downloads/wordpress/wp-admin/css/list-tables-rtl.min.css"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 298.0
+	},
+	"pinned_build_system": "",
+	"project": "cursoBootstrap4.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wp-",
+				"wp-cron.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Downloads/wordpress/wordpress.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
